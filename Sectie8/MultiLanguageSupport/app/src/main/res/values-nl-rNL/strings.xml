@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageSupport</string>
+    <string name="hello">Hallo Wereld</string>
+    <string name="show_toast">Laat een toast message zien</string>
+    <string name="toast">Dit is een toast message</string>
+</resources>
+
+
